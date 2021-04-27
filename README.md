@@ -2,14 +2,14 @@
 #### *I am a Problem Solver and Data Scientist. I am humble person who enjoys helping and metoring others.*
 
 #### Skills
-######### **Programing Languages: Python, R.**
-######### **Databases: Relational Database- Oracle, Sqllite, MySql**
-######### **Cloud Services: Azure, AWS**
-######### **CI/CD: Git, Docker, Azure Devops, MLOps.**
-######### **Big Data: Pandas, PySpark, Daatbricks** 
-######### **Machine Learning Libraries: Scikit-learn, TensorFlow, Keras, Pytorch.**
-######### **Visualisation Libraries: Dash, Matplotlib, Seaborn.**
-######### **Distributed ML: Dask, Azure Databricks**
+###### Programing Languages: Python, R.
+###### Databases: Relational Database- Oracle, Sqllite, MySql.
+###### Cloud Services: Azure, AWS.
+###### CI/CD: Git, Docker, Azure Devops, MLOps.
+###### Big Data: Pandas, PySpark, Daatbricks.
+###### Machine Learning Libraries: Scikit-learn, TensorFlow, Keras, Pytorch.
+###### Visualisation Libraries: Dash, Matplotlib, Seaborn.
+###### Distributed ML: Dask, Azure Databricks.
 
 #### My Projects 
 
