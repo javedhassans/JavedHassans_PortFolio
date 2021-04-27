@@ -1,6 +1,8 @@
 # Hi there 👋, I am Javed Hassan
 #### *I am a Problem Solver and Data Scientist. I am humble person who enjoys helping and metoring others.*
 
+______________________________________________________________________________________________________________
+
 #### Skills
 ###### Programing Languages: Python, R.
 ###### Databases: Relational Database- Oracle, Sqllite, MySql.
@@ -10,6 +12,8 @@
 ###### Machine Learning Libraries: Scikit-learn, TensorFlow, Keras, Pytorch.
 ###### Visualisation Libraries: Dash, Matplotlib, Seaborn.
 ###### Distributed ML: Dask, Azure Databricks.
+
+_______________________________________________________________________________________________________________
 
 #### My Projects 
 
