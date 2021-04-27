@@ -1,10 +1,11 @@
 # Hi there 👋, I am Javed Hassan
 #### *I am a Problem Solver and Data Scientist. I am humble person who enjoys helping and metoring others.*
 
-**Programing Languages: Python, R.
+#### Skills
+**Programing Languages: Python, R.**
 **Databases: Relational Database- Oracle, Sqllite, MySql**
 **Cloud Services: Azure, AWS**
-**CI/CD: Git, Docker, Azure Devops, MLOps.
+**CI/CD: Git, Docker, Azure Devops, MLOps.**
 **Big Data: Pandas, PySpark, Daatbricks** 
 **Machine Learning Libraries: Scikit-learn, TensorFlow, Keras, Pytorch.**
 **Visualisation Libraries: Dash, Matplotlib, Seaborn.**
